@@ -3,6 +3,8 @@ Automatic Action for kanboard: ClearDueDateTaskNotMovedColumn
 
 Adds an automatic action, that allows you to clear the due date of tasks in a specific column, that haven't been moved during a given period.
 
+ - Includes german translation
+
 Screenshots
 -----------
 
